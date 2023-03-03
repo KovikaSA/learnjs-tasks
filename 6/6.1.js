@@ -57,5 +57,3 @@ console.log(arithmeticProgression(100));
 // console.log("Время sumTo: " + /*timeSumTo*/ + bench(sumTo) + " мс"); //28 мс в одиночном запуске, 2628 мс в много разовом
 // console.log("Время sumToRecursion: " + /*timeSumToRecursion*/ bench(sumToRecursion) + " мс");
 // console.log("Время arithmeticProgression: " + /*timeArithmeticProgression*/ + bench(arithmeticProgression) + " мс");// 53 мс в одиночном, 5300 мс
-
-// В моих тестах цикл оказывается быстрее, чем решение по формуле...
